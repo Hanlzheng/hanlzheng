@@ -1,27 +1,22 @@
 <div align="center">
-# Hi there, I'm Hailey(Hanling Zheng) 👋
- 
-**AI Product Engineer · Stony Brook University**
- 
-*Building intelligent products that makes people's lives better*
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+Product+Engineer+%F0%9F%A4%96;ML+Learner+%7C+Pandas+%26+Beyond+%F0%9F%90%BC;Full-Stack+Builder+%F0%9F%94%A7;Always+exploring+new+ideas+%E2%9C%A8)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=ENFP+who+somehow+writes+unit+tests+%F0%9F%A7%AA;Teaching+machines+to+think%2C+still+figuring+out+myself+%F0%9F%A4%96;Debugging+life+one+commit+at+a+time+%F0%9F%90%9B;Will+work+for+sunsets+%26+mom%27s+cooking+%F0%9F%8C%85)](https://git.io/typing-svg)
  
 </div>
----
+
+## Hi there, I'm Hailey (Hanling Zheng) 👋
  
-## About Me
- 
-- Currently studying at **Stony Brook University**, New York
-- Passionate about building **AI-powered products**
-- Learning **Machine Learning** — diving into Pandas, NumPy & beyond
-- Always exploring the latest in **LLMs & AI engineering**
-- Fun fact: ENFP trapped in an engineer's body — my heart says "what if?" and my brain says "but have you considered the edge cases?"
----
+🤖 I am passionate about building AI products for those left behind by tech <br>
+💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
+🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
+🔨 Currently working on: [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake) 
+
+
  
 ## 🛠️ Tech Stack
  
-<div align="center">
+<div align="left">
+ 
 **Languages**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,40 +38,5 @@
 **Database**
  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- 
-</div>
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</div>
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
- 
-</div>
----
- 
-## 📈 Contribution Graph
- 
-<div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
- 
-</div>
----
- 
-<div align="center">
-*Thanks for visiting! Feel free to explore my repos and reach out 🙌*
- 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=flat-square)
  
 </div>
