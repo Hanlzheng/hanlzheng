@@ -9,7 +9,7 @@
 🤖 I am passionate about building AI products for those left behind by tech <br>
 💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
 🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
-🔨 Currently working on: [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake) 
+🔨 Currently working on: [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake) and my own website!
 
 
  
