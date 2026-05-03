@@ -4,7 +4,7 @@
  
 </div>
 
-## Hi there, I'm Hailey (Hanling Zheng) 👋
+## Hello, I'm Hailey (Hanling Zheng) 👋
  
 🤖 I am passionate about building AI products for those left behind by tech <br>
 💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
