@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=ENFP+who+somehow+writes+unit+tests+%F0%9F%A7%AA;Teaching+machines+to+think%2C+still+figuring+out+myself+%F0%9F%A4%96;Debugging+life+one+commit+at+a+time+%F0%9F%90%9B;Will+work+for+sunsets+%26+mom%27s+cooking+%F0%9F%8C%85)](https://git.io/typing-svg)
  
 </div>
-
-## Hello, I'm Hailey (Hanling Zheng) 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Hailey (Hanling Zheng)</h1>
  
 🤖 I am passionate about building AI products for those left behind by tech <br>
 💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
