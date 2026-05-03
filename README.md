@@ -10,8 +10,6 @@
 💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
 🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
 🔨 Currently working on: [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake) and my own website!
-
-![](https://github-readme-stats.vercel.app/api?username=Hanlzheng&show_icons=true&theme=dark&hide=contribs&hide_border=true)
  
 ## 🛠️ Tech Stack
  
