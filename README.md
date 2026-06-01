@@ -9,8 +9,8 @@
 💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
 🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
 🔨 Currently working on: 
-- [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake),
-- [my own website](https://github.com/Hanlzheng/hanlzheng.github.io),
+- [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake)
+- [my own website](https://github.com/Hanlzheng/hanlzheng.github.io)
 - [a credit risk assessment platform](https://github.com/Hanlzheng/credit-risk-platform)
  
 ## 🛠️ Tech Stack
