@@ -6,7 +6,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Hailey (Hanling Zheng)</h1>
  
 🤖 I am passionate about building AI products for those left behind by tech <br>
-💡 ENFP trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
+💡 ENFJ trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
 🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
 🔨 Currently working on: 
 - [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake)
