@@ -9,7 +9,7 @@
 💡 ENFJ trapped in an engineer's body — I lead with logic but never lose sight of the human behind the screen <br>
 🌅 Outside of code, I'm chasing sunsets and planning the day I take my family around the world <br>
 🔨 Currently working on: 
-- [https://github.com/Hanlzheng/pcdc-vita-remote-intake](https://github.com/jin-yu-yang/VITA-Management-System-Demo)
+- [pcdc-vita-remote-intake](https://github.com/jin-yu-yang/VITA-Management-System-Demo) — mainly built with [@jin-yu-yang](https://github.com/jin-yu-yang), a kindred spirit I found at SBU 🤝
 - [my own website](https://github.com/Hanlzheng/hanlzheng.github.io)
  
 ## 🛠️ Tech Stack
