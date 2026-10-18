@@ -11,7 +11,6 @@
 🔨 Currently working on: 
 - [pcdc-vita-remote-intake](https://github.com/Hanlzheng/pcdc-vita-remote-intake)
 - [my own website](https://github.com/Hanlzheng/hanlzheng.github.io)
-- [a credit risk assessment platform](https://github.com/Hanlzheng/credit-risk-platform)
  
 ## 🛠️ Tech Stack
  
