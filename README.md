@@ -11,17 +11,12 @@
 
 ## 🔨 Currently working on
 
-### 🧾 [ViTally](https://github.com/jin-yu-yang/VITA-Management-System-Demo) — case tracking for a free community tax site
-A bilingual (English / 中文) web app for [PCDC](https://chinatown-pcdc.org)'s IRS VITA program in Philadelphia's Chinatown, replacing paper piles and phone tag for 700+ tax requests a season. Built mainly with [@jin-yu-yang](https://github.com/jin-yu-yang), a kindred spirit I found at SBU 🤝
+### 🧾 [ViTally](https://github.com/jin-yu-yang/VITA-Management-System-Demo)
+A bilingual (English / 中文) web app that helps a nonprofit's free tax clinic in Philadelphia's Chinatown track every client's tax return, from first sign-up to filing, instead of paper piles and endless phone calls. Built mainly with [@jin-yu-yang](https://github.com/jin-yu-yang), a kindred spirit I found at SBU 🤝
 
-What I've worked on:
-- 🤝 **Bridging PCDC and the team**: turning site coordinators' workflow into requirements: the return lifecycle, admin screening, and the preparer / reviewer questionnaires that feed the Exit Form
-- 📞 **Contact log**: volunteers log calls, texts and emails in a few clicks, with edit history, live updates across windows, and a one-click summary to paste into TaxSlayer, backed by row-level security and Postgres RPCs
-- 📄 **IRS form drafts**: clients now get only Form 14446, the one they sign; fixed Traditional-Chinese PDFs that crashed on names typed in simplified characters (陈, 张, 刘 …)
-- ♿ **Shared screen states**: accessible confirmation dialogs with focus trapping, and one empty-state pattern across every list
-- 🌏 **Bilingual wording review** of the intake, so clients see questions in plain English and Chinese
-
-How we build: spec-driven development with OpenSpec, unit + database + cross-browser tests on every change, and AI coding agents (Claude Code) working through reviewed plans.
+- 🤝 Turn what the clinic's staff actually need into features, and keep the app easy for clients who are more comfortable in Chinese
+- 📞 Built a contact log so volunteers record every call, text and email in a few clicks
+- 🧪 Every change is planned, reviewed and covered by automated tests, with AI coding agents doing much of the building
 
 ### 🌐 [My own website](https://github.com/Hanlzheng/hanlzheng.github.io)
 
